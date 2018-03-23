@@ -1,8 +1,6 @@
 body {
     font-family:'Times New Roman', Times, serif;
-    /*padding-bottom: 70px;*/
     font-weight: 400;
-    /*FOOTER RULES*/
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -117,7 +115,7 @@ footer.page-footer {
 
 
 #timer {
-    color: #e74c3c;
+    color:rgba(0, 0, 0, 0.9);
     font-size: 60px;
     font-weight: bold;
 }
