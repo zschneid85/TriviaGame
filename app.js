@@ -204,7 +204,8 @@ $(document).ready(function() {
         $("#questionSpace").show();
 
         startTrivia();
-
+        
+        setTimeout(startTrivia, 1000 * 10);
 
     })
 
