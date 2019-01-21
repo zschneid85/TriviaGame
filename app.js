@@ -191,7 +191,7 @@ $(document).ready(function() {
         $('#gameMessage').append("<h4>Total Incorrect: " + incorrectCounter + "</h4>");
         $('#gameMessage').append("<h4>Total Unanswered: " + unansweredCounter + "</h4>");
 
-        setTimeout(startTrivia, 1000 * 10);
+        
 
     }
 
